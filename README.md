@@ -51,7 +51,7 @@ El proyecto sigue la arquitectura hexagonal y DDD (Domain-Driven Design). Los pa
 1. Ejecuta el proyecto.
 2. Utiliza POSTMAN para consumir la API y verificar los datos almacenados.
 3. Obtener los resultados en base de datos: `http://localhost:8080/data`
-4. Buscar por nombre : `http://localhost:8080/search/apolo 11`
+4. Buscar por nombre : `http://localhost:8080/search/{busqueda}`
 
 
 ## Licencia
