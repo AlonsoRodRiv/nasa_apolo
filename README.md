@@ -4,12 +4,13 @@ Este proyecto es una prueba técnica para la posición de Desarrollador Backend 
 
 ## Requisitos
 
-- Java 11 o Superior
+- Java 17 o Superior
 - PostgreSQL
 - PGADMIN o tu cliente de base de datos favorito
 - POSTMAN o tu cliente API favorito
 - Spring Tool Suite 4 (recomendado) o tu IDE favorito
 - GIT
+- Spring Boot 3
 
 ## Instalación
 
