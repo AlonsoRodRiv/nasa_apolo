@@ -3,7 +3,6 @@ package com.nasa.prueba.aspirante.infrastructure.clientrest;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.nasa.prueba.aspirante.domain.dto.InformationDTO;
-import com.nasa.prueba.aspirante.domain.ports.IExternalServicePort;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestClientException;
